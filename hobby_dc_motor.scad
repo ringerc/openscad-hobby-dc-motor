@@ -66,7 +66,7 @@ motor_back_slot_zoff_from_top = 5.8;
 
 render_axle_separately = false;
 // Clearance above body back area for wiring to mark out as a solid for subtractive use.
-generate_wiring_clearance_blocks = true;
+generate_wiring_clearance_blocks = false;
 wiring_clearance_y = 4;
 wiring_clearance_z = 4;
 wiring_clearance_x = motor_back_protrusion_x+motor_back_x;
