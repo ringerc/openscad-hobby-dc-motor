@@ -5,6 +5,9 @@ Copyright 2019 Craig Ringer <ringerc@ringerc.id.au>
 BSD Licensed
 
 ![Image of 130-size 6V DC motor](motor-130-dc-6v-example.jpg)
+![OpenSCAD preview render, front](hobby_dc_motor.png)
+![OpenSCAD preview render, rear](hobby_dc_motor_2.png)
+![Thingiverse render](https://cdn.thingiverse.com/assets/9f/2b/89/9c/21/featured_preview_hobby_dc_motor.stl)
 
 This isn't particularly modular or reusable, you have to edit the script to
 set parameters. I couldn't be bothered coming up with a sensible way to load
