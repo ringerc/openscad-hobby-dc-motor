@@ -4,6 +4,8 @@ Copyright 2019 Craig Ringer <ringerc@ringerc.id.au>
 
 BSD Licensed
 
+![Image of 130-size 6V DC motor](motor-130-dc-6v-example.jpg)
+
 This isn't particularly modular or reusable, you have to edit the script to
 set parameters. I couldn't be bothered coming up with a sensible way to load
 the measurement configuration in openscad and didn't have a different shaped
